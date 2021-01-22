@@ -1,0 +1,5 @@
+# java class files
+*.class
+
+# stealth directory
+stealth/
